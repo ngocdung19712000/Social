@@ -6,7 +6,7 @@
   <picture><a href="https://www.youtube.com/@AdmUIPersonalNgocDung"><img src="https://github.com/user-attachments/assets/4e7cd234-f115-4ae3-9c28-9b45bade3edb" width="200" height="50"/></a></picture>
   <picture><a href="https://www.facebook.com/ngocdung19712000"><img src="https://github.com/user-attachments/assets/a7e49745-e857-4d5b-b1bb-b5918e5c147a" width="200" height="50"/></a></picture>
   <picture><a href="https://www.instagram.com/ngocdung19712000/"><img src="https://github.com/user-attachments/assets/72056471-a502-4831-9660-ca227be4636a" width="200" height="50"/></a></picture>
-  <picture><a href="https://www.tiktok.com/@"><img src="https://github.com/user-attachments/assets/64165889-3eac-4588-9f3a-1a48b4b22d98" width="200" height="50"/></a></picture>
+  <picture><a href="https://www.tiktok.com/@ngocdung19712000"><img src="https://github.com/user-attachments/assets/64165889-3eac-4588-9f3a-1a48b4b22d98" width="200" height="50"/></a></picture>
   <picture><a href="https://open.spotify.com/user/31f6vlkjyxa4dkm5k6ixa4kmaely"><img src="https://github.com/user-attachments/assets/60b97be3-dd57-4f69-90c1-d537a59df1d7" width="200" height="50"/></a></picture>
   <picture><a href="https://www.twitch.tv/ngocdung19712000"><img src="https://github.com/user-attachments/assets/de1b3abf-bd29-459d-bfab-159da4f55b27" width="200" height="50"/></a></picture>
   <picture><a href="https://x.com/ngocdung1971_"><img src="https://github.com/user-attachments/assets/e1933f7b-d023-4a1c-8c91-f946478b5c9b" width="200" height="50"/></a></picture>
