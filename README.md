@@ -13,6 +13,6 @@
   <picture><img src="https://github.com/user-attachments/assets/5f3cbd54-7528-413f-9774-8d038cd1a64a" width="200" height="50"/></picture>
   <picture><a href="https://www.pinterest.com/ngocdung1971_/"><img src="https://github.com/user-attachments/assets/6d1769a8-05b2-43c4-af0b-2dce454e3a89" width="200" height="50"/></a></picture>
   <picture><a href="https://www.reddit.com/user/ngocdung19712000/"><img src="https://github.com/user-attachments/assets/826b72d9-b512-418f-8138-45bd75e0f681" width="200" height="50"/></a></picture>
-  <picture><img src="https://github.com/user-attachments/assets/fdbdb80c-722d-4124-9f4d-3ac6c1a446e1" width="200" height="50"/></picture>
+  <picture><a href="https://www.patreon.com/ngocdung19712000/"><img src="https://github.com/user-attachments/assets/fdbdb80c-722d-4124-9f4d-3ac6c1a446e1" width="200" height="50"/></a></picture>
   <picture><img src="https://github.com/user-attachments/assets/1ea7a568-273e-4c46-aec1-7ef3f8ea81bc" width="200" height="50"/></picture>
 </h1>
